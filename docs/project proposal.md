@@ -41,23 +41,7 @@ Our project will follow a structured methodology to achieve the stated objective
 
 9. **Report and Recommendations**: Present findings, insights, and recommendations in a comprehensive report for each bank.
 
-## Timeline
-The project timeline will span approximately [Insert Estimated Duration] months, with key milestones as follows:
 
-- **Project Kick-off and Data Collection**: [Start Date] - [End Date]
-- **Data Preprocessing and EDA**: [Start Date] - [End Date]
-- **Time Series Analysis and Predictive Modeling**: [Start Date] - [End Date]
-- **Cost Forecasting and Scenario Analysis**: [Start Date] - [End Date]
-- **Report Generation and Presentation**: [Start Date] - [End Date]
-
-## Resources Required
-To successfully complete this project, we will require the following resources:
-
-1. **Data Analysts**: To collect, preprocess, and analyze data.
-2. **Financial Experts**: To understand the banking industry and interpret financial statements.
-3. **Data Scientists**: To build predictive and forecasting models.
-4. **Software and Tools**: Statistical software (e.g., Python, R), data visualization tools,
-    and database management systems.
 
 ## Expected Deliverables
 At the project's conclusion, the following deliverables will be provided:
