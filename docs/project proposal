@@ -55,7 +55,8 @@ To successfully complete this project, we will require the following resources:
 1. **Data Analysts**: To collect, preprocess, and analyze data.
 2. **Financial Experts**: To understand the banking industry and interpret financial statements.
 3. **Data Scientists**: To build predictive and forecasting models.
-4. **Software and Tools**: Statistical software (e.g., Python, R), data visualization tools, and database management systems.
+4. **Software and Tools**: Statistical software (e.g., Python, R), data visualization tools,
+    and database management systems.
 
 ## Expected Deliverables
 At the project's conclusion, the following deliverables will be provided:
@@ -68,4 +69,8 @@ At the project's conclusion, the following deliverables will be provided:
 6. Recommendations for cost optimization.
 
 ## Conclusion
-This project aims to equip BOFA, J.P. Morgan, and Goldman Sachs with the insights and tools needed to make informed decisions regarding cost management, efficiency, and competitiveness. By leveraging time series analysis, predictive modeling, and forecasting, these financial institutions can navigate the challenges of an ever-changing financial landscape while ensuring long-term profitability and sustainability.
+This project aims to equip BOFA, J.P. Morgan, and Goldman Sachs with the insights and tools needed to make 
+informed decisions regarding cost management, efficiency, and competitiveness. By leveraging time series analysis, 
+predictive modeling, and forecasting, these financial institutions can navigate the challenges of an ever-changing financial
+landscape while ensuring long-term profitability and sustainability.
+
