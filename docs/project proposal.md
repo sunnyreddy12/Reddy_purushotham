@@ -35,11 +35,9 @@ Our project will follow a structured methodology to achieve the stated objective
 
 6. **Forecasting**: Build forecasting models, including long-term and short-term forecasts, using time series and machine learning techniques.
 
-7. **Cost Driver Analysis**: Identify key cost drivers using regression analysis and correlation techniques.
+7. **Benchmarking and Scenario Analysis**: Compare cost efficiency with industry benchmarks and conduct scenario analysis to assess cost resilience.
 
-8. **Benchmarking and Scenario Analysis**: Compare cost efficiency with industry benchmarks and conduct scenario analysis to assess cost resilience.
-
-9. **Report and Recommendations**: Present findings, insights, and recommendations in a comprehensive report for each bank.
+8. **Report and Recommendations**: Present findings, insights, and recommendations in a comprehensive report for each bank.
 
 
 
