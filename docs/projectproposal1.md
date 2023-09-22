@@ -3,7 +3,7 @@
 ## 1. Purushotham reddy
 
 ### Project Title
-**Understanding and Mitigating Landslide Risks in Uttarakhand**
+**Proposal for Landslide detection Project**
 
 ### Author
 Purushotham reddy
@@ -33,16 +33,15 @@ Landslides during the monsoon season disrupt daily life and communication infras
 - Rainfall data from the Tropical Rainfall Measuring Mission (TRMM)
 
 ### Data Details
-- Data Size: Varies (GLC has over 11,000 reports)
+- The final dataset is made by joining all the above sets and filtering the rows
+- Data Size: 6MB
 - Data Shape: Varies (e.g., GLC contains various types of landslide reports)
 - Time Period: Historical data of 15 years
-- Each row represents: Details of landslide events (location, date, type)
+- Each row represents: Details of landslide events, The Rainfall data and the soil rigidity module.
 - Data Dictionary:
-  - Columns Name
-  - Data Type
-  - Definition
-  - Potential Values (for categorical variables)
-- Target/Label Variable: Type of landslide event
-- Feature/Predictor Variables: Various meteorological and geographical factors
+  - Columns Names: 	depth	landslide	antecedent_1days	antecedent_2days	antecedent_3days	antecedent_4days	antecedent_5days	antecedent_6days	antecedent_7days	antecedent_8days	...	antecedent_21days	antecedent_22days	antecedent_23days	antecedent_24days	antecedent_25days	antecedent_26days	antecedent_27days	antecedent_28days	antecedent_29days	antecedent_30days
+  - Potential Values (for categorical variables):[0,1]
+- Target/Label Variable: Landslide
+- Feature/Predictor Variables: Possibility of a landfall
 
-This proposal provides a structured approach to understanding and mitigating landslides in Uttarakhand, backed by comprehensive data analysis and research.
+This proposal provides a structured approach to understanding and Predicting landslides in Uttarakhand, backed by comprehensive data analysis and research.
