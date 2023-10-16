@@ -39,7 +39,7 @@ Landslides during the monsoon season disrupt daily life and communication infras
 - Time Period: Historical data of 15 years
 - Each row represents: Details of landslide events, The Rainfall data and the soil rigidity module.
 - Data Dictionary:
-  - Columns Names: 	depth	landslide	antecedent_1days	antecedent_2days	antecedent_3days	antecedent_4days	antecedent_5days	antecedent_6days	antecedent_7days	antecedent_8days	...	antecedent_21days	antecedent_22days	antecedent_23days	antecedent_24days	antecedent_25days	antecedent_26days	antecedent_27days	antecedent_28days	antecedent_29days	antecedent_30days
+  - Columns Names: 	depth	landslide	antecedent_data for 30 days	
   - Potential Values (for categorical variables):[0,1]
 - Target/Label Variable: Landslide
 - Feature/Predictor Variables: Possibility of a landfall
