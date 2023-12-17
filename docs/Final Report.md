@@ -1,6 +1,6 @@
 # Proposal for Landslide detection Project
 
-## 1. Purushotham reddy
+## 1. Purushotham reddy -Final semester
 
 ### Project Title
 **Proposal for Landslide detection Project**
